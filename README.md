@@ -29,8 +29,8 @@ Raw data is in `COMPETITION_DATA/`.
 
 #### 1. Cloning the Repository
   ```bash
-  git clone https://github.com/shawn-0123/Basketball_Tournament_Analysis
-  cd Basketball_Tournament_Analysis
+  git clone https://github.com/shawn-0123/Basketball_Team_Analysis
+  cd Basketball_Team_Analysis
   ```
 
 #### 2. Adding & Committing Changes
